@@ -14,4 +14,6 @@ Features
 2. Read Tips: Review the provided tips for creating a secure password.
 3. Enter Password: Input the password you wish to check.
 4. View Feedback: The program will display the masked password and provide feedback on its strength.
+
+
    This code was developed as part of my internship at The NovaNectarServicespvt.ltd demonstrating a practical approach to assessing password strength and educating users on creating secure passwords.
